@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="B_.Form1" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCAAAGAACAAABAQACCCpAACCMg4AAAANnAMEwBAAYg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntWrapper" Collapsed="true">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEgAAAAAAAAAAAAIAAAAAgAAAAAAA=</HashCode>
+      <FileName>IntWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntWrapperComparer" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>IntWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeExMachina.FreeList&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAABAAAAAAAABIABAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeExMachina.Items&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECACAABFCABCIAQAESAgAAAAAAQA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CodeExMachina.Children&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAAAAAAAAAAACACAAAFCAACAAQAECAgAAAAAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CodeExMachina.Node&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAADABAgIAEFAAIAAEAAABQQAAAAAAEAQA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeExMachina.BTree&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAACBAAQAQAABQAAEAAAAgAAAAAABAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeExMachina.CopyOnWriteContext&lt;T&gt;" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAEAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeExMachina.Int" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEgACAAgAAAAAAAIAAgAAAAAAAAiA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="B_.Program" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CodeExMachina.ToRemove" Collapsed="true">
+    <Position X="15.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAE=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CodeExMachina.Direction" Collapsed="true">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CodeExMachina.FreeType" Collapsed="true">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="CodeExMachina.ItemIterator&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
